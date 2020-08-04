@@ -30,3 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 
+![snap1](https://user-images.githubusercontent.com/53751396/89245363-c3e32500-d65c-11ea-97a1-07315ecec0ae.PNG)
